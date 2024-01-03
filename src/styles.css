@@ -1,21 +1,25 @@
-body{
-    background-color: rgb(212, 242, 232);
+body {
+  background-color: rgb(212, 242, 232);
 }
 h1 {
   text-align: center;
 }
-.links{
-    display: flex;
-    justify-content: space-evenly;
-    margin-top: 35px;
+.links {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 35px;
 }
-img{
-    border-radius: 10px;
-    display: block;
-    margin: 0 auto;
-    margin-bottom: 35px;
+img {
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 35px;
 }
-p{
-    text-align: center;
-    display: inline;
+p {
+  text-align: center;
+  display: inline;
+}
+.links a {
+    text-decoration: none;
+    color: brown;
 }
